@@ -1,4 +1,4 @@
-public class AwesomeTest {
+class awesomeTest {
 
     // red means it's untracked
     // green means it's under staging area
@@ -9,5 +9,5 @@ public class AwesomeTest {
     // and now my project is in sync with remote repository
 
     // Now i made more awesome changes and i AM ABOUT To push this back to Github
-
+    // I MADE A CHANGE
 }
